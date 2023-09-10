@@ -1,0 +1,16 @@
+tags:
+  - movies
+title: Movie Genres
+items:
+  - Action
+  - Drama
+  - Satire
+  - Thriller
+  - Mystery
+  - Magical Realism
+  - Historical Fiction
+  - Fantasy
+  - Crime
+  - Western
+sources:
+  - "https://en.wikipedia.org/wiki/List_of_genres"
